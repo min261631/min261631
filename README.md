@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mihini Ranasinghe  
 
-🎓 Software Engineering Student | 💻 Full-Stack Developer | 🚀 Tech Leader  
+Software Engineering Student | 💻 Full-Stack Developer | 🚀 Tech Leader  
 
 Passionate about building **scalable, user-focused applications** that create real-world impact. Experienced across **React, Node.js, Flask, Docker, Linux, and AWS**, with a strong interest in **AI, cloud, and education-focused tech**.  
 
@@ -14,13 +14,13 @@ Passionate about building **scalable, user-focused applications** that create re
 
 ---
 
-### 🌐 Leadership & Engagement  
+###  Leadership & Engagement  
 - **CTO – Enactus La Trobe University**: Leading the dev team members, managing digital platforms, and aligning solutions with business goals  
 - **Event Lead – Google Developers Group La Trobe**: Organized large-scale events including the **Game Development Workshop** and **Innovation Sprint 2025**, alongside bootcamps and hackathons, engaging 100+ participants and building industry partnerships 
 
 ---
 
-### 🛠️ Tech Toolbox  
+###  Tech Toolbox  
 **Frontend**: React, TypeScript, Tailwind  
 **Backend**: Node.js, Express.js, Flask  
 **Cloud & Databases**: AWS (S3, Lambda, DynamoDB), Google Cloud, Firebase, MySQL  
@@ -29,15 +29,23 @@ Passionate about building **scalable, user-focused applications** that create re
 
 ---
 
-### 🌟 Exploring  
+###  Exploring  
 Kubernetes • Terraform • Ansible • Grafana • Prometheus • ELK • Networking (DNS, firewalls, load balancing)  
 
 ---
 
-### 📫 Connect  
-- ✉️ **mihininiweka@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mihini-ranasinghe-213355219/)  
-- 💻 [GitHub](https://github.com/min261631)  
+###  Connect  
+- **mihininiweka@gmail.com**  
+- [LinkedIn](https://www.linkedin.com/in/mihini-ranasinghe-213355219/)  
+- [GitHub](https://github.com/min261631)  
 
 ---
+### 📈 Activity & Contributions
+
+<!-- Profile summary: contributions, repos, PRs, issues -->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=min261631&theme=radical)
+
+<!-- Streaks: shows continuous contribution activity -->
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=min261631&theme=radical)
+
 
